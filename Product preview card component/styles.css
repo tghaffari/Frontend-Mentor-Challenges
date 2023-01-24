@@ -6,3 +6,19 @@
 .attribution a {
   color: hsl(228deg 45% 44%);
 } */
+
+.page-background {
+  background-color: hsl(30deg 38% 92%);
+}
+
+.product-card {
+  background-color: white;
+  border-radius: 6px;
+}
+
+.product-image {
+  background-image: url("images/image-product-mobile.jpg");
+  background-size: cover;
+  height: 250px;
+  border-radius: 6px 6px 0 0;
+}
