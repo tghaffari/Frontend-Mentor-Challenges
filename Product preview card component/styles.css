@@ -78,3 +78,8 @@
   height: 50px;
   margin-bottom: 30px;
 }
+
+.add-to-cart-button:hover {
+  cursor: pointer;
+  background-color: hsl(212deg 21% 14%);
+}
