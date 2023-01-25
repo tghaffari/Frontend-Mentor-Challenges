@@ -83,3 +83,12 @@
   cursor: pointer;
   background-color: hsl(212deg 21% 14%);
 }
+
+@media screen and (min-width: 768px) {
+  .product-image {
+    background-image: url("images/image-product-desktop.jpg");
+    background-size: cover;
+    height: 100%;
+    border-radius: 6px 0 0 6px;
+  }
+}
