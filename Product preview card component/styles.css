@@ -84,7 +84,7 @@
   background-color: hsl(212deg 21% 14%);
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1440px) {
   .product-image {
     background-image: url("images/image-product-desktop.jpg");
     background-size: cover;
